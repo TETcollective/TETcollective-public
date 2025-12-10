@@ -12,6 +12,9 @@ Email: symonsoliman@gmail.com
 → [Download PDF](TU-GUT-SYSY-v24.pdf)  
 → [LaTeX source](TU-GUT-SYSY-v24.tex)
 
+- [PDF Download](TU-GUT-SYSY-v24.pdf)  
+
+
 **Authorship Declaration**  
 All work is conceived and directed exclusively by Simon Soliman.  
 AI tools used only as assistants – no co-authorship.
